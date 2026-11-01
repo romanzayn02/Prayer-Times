@@ -1,0 +1,6 @@
+{
+  "name": "Prayer Times",
+  "description": "Apple iPhone liquid glass aesthetic Islamic prayer times displaying all 5 daily prayers, solar arc tracking, and Hanafi calibration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
